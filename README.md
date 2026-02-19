@@ -1,7 +1,7 @@
 # 📊 GST Collection Analytics Dashboard  
 ### 🇮🇳 Business Intelligence Project using Google Looker Studio  
 
-![Made with Looker Studio]()
+![Made with Looker Studio](overall.png)
 
 ---
 
