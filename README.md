@@ -139,11 +139,11 @@ Improving GST collection efficiency can result in:
 
 > (Add your screenshots inside a folder named `Dashboard_Screenshots` and link them below)
 
-```markdown
-![Dashboard Overview](Dashboard_Screenshots/overview.png)
-![State Ranking](Dashboard_Screenshots/ranking.png)
-![Trend Analysis](Dashboard_Screenshots/trend.png)
-```
+
+![Dashboard Overview](overall.png)
+![State Ranking](state performanse.png)
+![Trend Analysis](GST COLLECTION_Untitled Page_Bar chart.png)
+
 
 ---
 
