@@ -161,7 +161,7 @@ GST-Analytics-Dashboard/
 ├── README.md
 ├── Dashboard_Screenshots/
 │   ├── overview.png
-│   ├── ranking.png
+│   ├── top_state.png
 │   └── trend.png
 ├── Dataset/
 │   └── gst_sample_data.csv
