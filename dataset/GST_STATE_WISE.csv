@@ -1,0 +1,211 @@
+Sl. No.,State Code,State/UT,Region,Financial_Year,GST_Collection
+1,1,Jammu and Kashmir,North,2020-03-21,3648
+1,1,Jammu and Kashmir,North,2021-03-30,4692
+1,1,Jammu and Kashmir,North,2022-03-30,5246
+1,1,Jammu and Kashmir,North,2023-03-30,6704
+1,1,Jammu and Kashmir,North,2024-03-30,4275
+2,2,Himachal Pradesh,North,2020-03-21,7055
+2,2,Himachal Pradesh,North,2021-03-30,8023
+2,2,Himachal Pradesh,North,2022-03-30,8778
+2,2,Himachal Pradesh,North,2023-03-30,9956
+2,2,Himachal Pradesh,North,2024-03-30,6144
+3,3,Punjab,North,2020-03-21,13913
+3,3,Punjab,North,2021-03-30,18406
+3,3,Punjab,North,2022-03-30,20949
+3,3,Punjab,North,2023-03-30,24061
+3,3,Punjab,North,2024-03-30,15441
+4,4,Chandigarh,North,2020-03-21,1651
+4,4,Chandigarh,North,2021-03-30,1979
+4,4,Chandigarh,North,2022-03-30,2365
+4,4,Chandigarh,North,2023-03-30,2771
+4,4,Chandigarh,North,2024-03-30,1691
+5,5,Uttarakhand,North,2020-03-21,12339
+5,5,Uttarakhand,North,2021-03-30,13680
+5,5,Uttarakhand,North,2022-03-30,16845
+5,5,Uttarakhand,North,2023-03-30,19231
+5,5,Uttarakhand,North,2024-03-30,12247
+6,6,Haryana,North,2020-03-21,54890
+6,6,Haryana,North,2021-03-30,68142
+6,6,Haryana,North,2022-03-30,86668
+6,6,Haryana,North,2023-03-30,102914
+6,6,Haryana,North,2024-03-30,68202
+7,7,Delhi,North,2020-03-21,36568
+7,7,Delhi,North,2021-03-30,46253
+7,7,Delhi,North,2022-03-30,55843
+7,7,Delhi,North,2023-03-30,66445
+7,7,Delhi,North,2024-03-30,46669
+8,8,Rajasthan,West,2020-03-21,31797
+8,8,Rajasthan,West,2021-03-30,38480
+8,8,Rajasthan,West,2022-03-30,45458
+8,8,Rajasthan,West,2023-03-30,50174
+8,8,Rajasthan,West,2024-03-30,30813
+9,9,Uttar Pradesh,North,2020-03-21,59721
+9,9,Uttar Pradesh,North,2021-03-30,73865
+9,9,Uttar Pradesh,North,2022-03-30,87970
+9,9,Uttar Pradesh,North,2023-03-30,101693
+9,9,Uttar Pradesh,North,2024-03-30,66036
+10,10,Bihar,East,2020-03-21,11638
+10,10,Bihar,East,2021-03-30,13534
+10,10,Bihar,East,2022-03-30,16548
+10,10,Bihar,East,2023-03-30,18021
+10,10,Bihar,East,2024-03-30,11199
+11,11,Sikkim,North-East,2020-03-21,2266
+11,11,Sikkim,North-East,2021-03-30,2811
+11,11,Sikkim,North-East,2022-03-30,3156
+11,11,Sikkim,North-East,2023-03-30,3707
+11,11,Sikkim,North-East,2024-03-30,2340
+12,12,Arunachal Pradesh,North-East,2020-03-21,651
+12,12,Arunachal Pradesh,North-East,2021-03-30,710
+12,12,Arunachal Pradesh,North-East,2022-03-30,1023
+12,12,Arunachal Pradesh,North-East,2023-03-30,1308
+12,12,Arunachal Pradesh,North-East,2024-03-30,694
+13,13,Nagaland,North-East,2020-03-21,389
+13,13,Nagaland,North-East,2021-03-30,420
+13,13,Nagaland,North-East,2022-03-30,566
+13,13,Nagaland,North-East,2023-03-30,711
+13,13,Nagaland,North-East,2024-03-30,374
+14,14,Manipur,North-East,2020-03-21,392
+14,14,Manipur,North-East,2021-03-30,551
+14,14,Manipur,North-East,2022-03-30,615
+14,14,Manipur,North-East,2023-03-30,670
+14,14,Manipur,North-East,2024-03-30,452
+15,15,Mizoram,North-East,2020-03-21,257
+15,15,Mizoram,North-East,2021-03-30,316
+15,15,Mizoram,North-East,2022-03-30,419
+15,15,Mizoram,North-East,2023-03-30,500
+15,15,Mizoram,North-East,2024-03-30,323
+16,16,Tripura,North-East,2020-03-21,732
+16,16,Tripura,North-East,2021-03-30,777
+16,16,Tripura,North-East,2022-03-30,884
+16,16,Tripura,North-East,2023-03-30,1053
+16,16,Tripura,North-East,2024-03-30,648
+17,17,Meghalaya,North-East,2020-03-21,1337
+17,17,Meghalaya,North-East,2021-03-30,1764
+17,17,Meghalaya,North-East,2022-03-30,2076
+17,17,Meghalaya,North-East,2023-03-30,2260
+17,17,Meghalaya,North-East,2024-03-30,1200
+18,18,Assam,North-East,2020-03-21,10030
+18,18,Assam,North-East,2021-03-30,12007
+18,18,Assam,North-East,2022-03-30,13710
+18,18,Assam,North-East,2023-03-30,15602
+18,18,Assam,North-East,2024-03-30,10059
+19,19,West Bengal,East,2020-03-21,39694
+19,19,West Bengal,East,2021-03-30,47898
+19,19,West Bengal,East,2022-03-30,58060
+19,19,West Bengal,East,2023-03-30,62613
+19,19,West Bengal,East,2024-03-30,39041
+20,20,Jharkhand,East,2020-03-21,20482
+20,20,Jharkhand,East,2021-03-30,27854
+20,20,Jharkhand,East,2022-03-30,32019
+20,20,Jharkhand,East,2023-03-30,34738
+20,20,Jharkhand,East,2024-03-30,20954
+21,21,Odisha,East,2020-03-21,29844
+21,21,Odisha,East,2021-03-30,44335
+21,21,Odisha,East,2022-03-30,49442
+21,21,Odisha,East,2023-03-30,54748
+21,21,Odisha,East,2024-03-30,34908
+22,22,Chhattisgarh,Central,2020-03-21,24419
+22,22,Chhattisgarh,Central,2021-03-30,29571
+22,22,Chhattisgarh,Central,2022-03-30,31968
+22,22,Chhattisgarh,Central,2023-03-30,34874
+22,22,Chhattisgarh,Central,2024-03-30,21223
+23,23,Madhya Pradesh,Central,2020-03-21,27005
+23,23,Madhya Pradesh,Central,2021-03-30,31255
+23,23,Madhya Pradesh,Central,2022-03-30,36232
+23,23,Madhya Pradesh,Central,2023-03-30,42174
+23,23,Madhya Pradesh,Central,2024-03-30,25626
+24,24,Gujarat,West,2020-03-21,74346
+24,24,Gujarat,West,2021-03-30,97155
+24,24,Gujarat,West,2022-03-30,114221
+24,24,Gujarat,West,2023-03-30,125168
+24,24,Gujarat,West,2024-03-30,78645
+25,25,Daman and Diu,West,2020-03-21,305
+25,25,Daman and Diu,West,2021-03-30,5
+25,25,Daman and Diu,West,2022-03-30,3
+25,25,Daman and Diu,West,2023-03-30,3
+25,25,Daman and Diu,West,2024-03-30,1
+26,26,Dadra and Nagar Haveli,West,2020-03-21,2349
+26,26,Dadra and Nagar Haveli,West,2021-03-30,3141
+26,26,Dadra and Nagar Haveli,West,2022-03-30,3771
+26,26,Dadra and Nagar Haveli,West,2023-03-30,4333
+26,26,Dadra and Nagar Haveli,West,2024-03-30,2548
+27,27,Maharashtra,West,2020-03-21,165308
+27,27,Maharashtra,West,2021-03-30,217993
+27,27,Maharashtra,West,2022-03-30,270346
+27,27,Maharashtra,West,2023-03-30,320117
+27,27,Maharashtra,West,2024-03-30,206141
+28,28,Karnataka,South,2020-03-21,75660
+28,28,Karnataka,South,2021-03-30,95926
+28,28,Karnataka,South,2022-03-30,122822
+28,28,Karnataka,South,2023-03-30,145266
+28,28,Karnataka,South,2024-03-30,91348
+29,29,Goa,West,2020-03-21,3270
+29,29,Goa,West,2021-03-30,4364
+29,29,Goa,West,2022-03-30,5520
+29,29,Goa,West,2023-03-30,6475
+29,29,Goa,West,2024-03-30,4032
+30,30,Lakshadweep,South,2020-03-21,13
+30,30,Lakshadweep,South,2021-03-30,18
+30,30,Lakshadweep,South,2022-03-30,21
+30,30,Lakshadweep,South,2023-03-30,45
+30,30,Lakshadweep,South,2024-03-30,9
+31,31,Kerala,South,2020-03-21,17349
+31,31,Kerala,South,2021-03-30,22264
+31,31,Kerala,South,2022-03-30,27371
+31,31,Kerala,South,2023-03-30,30677
+31,31,Kerala,South,2024-03-30,19059
+32,32,Tamil Nadu,South,2020-03-21,69121
+32,32,Tamil Nadu,South,2021-03-30,85492
+32,32,Tamil Nadu,South,2022-03-30,104377
+32,32,Tamil Nadu,South,2023-03-30,121329
+32,32,Tamil Nadu,South,2024-03-30,75078
+33,33,Puducherry,South,2020-03-21,1646
+33,33,Puducherry,South,2021-03-30,1824
+33,33,Puducherry,South,2022-03-30,2373
+33,33,Puducherry,South,2023-03-30,2636
+33,33,Puducherry,South,2024-03-30,1664
+34,34,Andaman and Nicobar Islands,South,2020-03-21,255
+34,34,Andaman and Nicobar Islands,South,2021-03-30,332
+34,34,Andaman and Nicobar Islands,South,2022-03-30,373
+34,34,Andaman and Nicobar Islands,South,2023-03-30,428
+34,34,Andaman and Nicobar Islands,South,2024-03-30,255
+35,35,Telangana,South,2020-03-21,36346
+35,35,Telangana,South,2021-03-30,45081
+35,35,Telangana,South,2022-03-30,51831
+35,35,Telangana,South,2023-03-30,59942
+35,35,Telangana,South,2024-03-30,35924
+36,36,Andhra Pradesh,South,2020-03-21,26163
+36,36,Andhra Pradesh,South,2021-03-30,32710
+36,36,Andhra Pradesh,South,2022-03-30,40232
+36,36,Andhra Pradesh,South,2023-03-30,44298
+36,36,Andhra Pradesh,South,2024-03-30,26357
+37,37,Ladakh,north,2020-03-21,114
+37,37,Ladakh,north,2021-03-30,207
+37,37,Ladakh,north,2022-03-30,333
+37,37,Ladakh,north,2023-03-30,481
+37,37,Ladakh,north,2024-03-30,278
+38,38,Other Territory,Other,2020-03-21,1337
+38,38,Other Territory,Other,2021-03-30,1590
+38,38,Other Territory,Other,2022-03-30,2609
+38,38,Other Territory,Other,2023-03-30,2615
+38,38,Other Territory,Other,2024-03-30,1472
+39,39,Centre Jurisdiction,Other,2020-03-21,1541
+39,39,Centre Jurisdiction,Other,2021-03-30,2121
+39,39,Centre Jurisdiction,Other,2022-03-30,1941
+39,39,Centre Jurisdiction,Other,2023-03-30,2507
+39,39,Centre Jurisdiction,Other,2024-03-30,1767
+40,40,GST Collection (Domestic),,2020-03-21,865842
+40,40,GST Collection (Domestic),,2021-03-30,1097545
+40,40,GST Collection (Domestic),,2022-03-30,1324985
+40,40,GST Collection (Domestic),,2023-03-30,1523249
+40,40,GST Collection (Domestic),,2024-03-30,965138
+41,41,Imports,,2020-03-21,270964
+41,41,Imports,,2021-03-30,385746
+41,41,Imports,,2022-03-30,482695
+41,41,Imports,,2023-03-30,495001
+41,41,Imports,,2024-03-30,309302
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
