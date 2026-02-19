@@ -149,7 +149,7 @@ Improving GST collection efficiency can result in:
 
 ## 🔗 Live Dashboard
 
-👉 [View Live Dashboard Here](PASTE_YOUR_PUBLIC_LINK_HERE)
+👉 [View Live Dashboard Here](https://lookerstudio.google.com/reporting/b795b046-250c-4ce7-a2b2-426071f60f00/page/X60mF?s=o37FkH-CFmA)
 
 ---
 
@@ -178,13 +178,6 @@ GST-Analytics-Dashboard/
 - Automated Data Refresh Pipeline  
 - SQL Database Integration  
 - Predictive Analytics using Python  
-
----
-
-## 👨‍💻 Author
-
-**Your Name**  
-Aspiring Data Analyst | Business Intelligence Developer  
 
 ---
 
