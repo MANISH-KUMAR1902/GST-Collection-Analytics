@@ -1,7 +1,7 @@
 # 📊 GST Collection Analytics Dashboard  
 ### 🇮🇳 Business Intelligence Project using Google Looker Studio  
 
-![Made with Looker Studio](overall.png)
+![Made with Looker Studio](screenshot/overall.png)
 
 ---
 
@@ -140,9 +140,9 @@ Improving GST collection efficiency can result in:
 > (Add your screenshots inside a folder named `Dashboard_Screenshots` and link them below)
 
 
-![Dashboard Overview](overall.png)
-![State Ranking](state_performanse.png)
-![Trend Analysis](Bar_chart.png)
+![Dashboard Overview](screenshot/overall.png)
+![State Ranking](screenshot/state_performanse.png)
+![Trend Analysis](screenshot/Bar_chart.png)
 
 
 ---
