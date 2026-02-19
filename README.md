@@ -141,8 +141,8 @@ Improving GST collection efficiency can result in:
 
 
 ![Dashboard Overview](overall.png)
-![State Ranking](state performanse.png)
-![Trend Analysis](GST COLLECTION_Untitled Page_Bar chart.png)
+![State Ranking](state_performanse.png)
+![Trend Analysis](Bar_chart.png)
 
 
 ---
